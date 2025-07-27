@@ -1,0 +1,11 @@
+#5 Flutter BLOC Counter App || Flutter Bloc State Management Complete Course 2024
+
+Learn:-
+   * event, bloc , state 
+   * bloc in how to code , equatable package actually how to use 
+   * bloc builder, 
+   * bloc code how to add in widget
+   * bloc how add in system
+   * bloc how to create
+   * events with communicate with our bloc (state build)
+   * bloc scope how many ( error face)
